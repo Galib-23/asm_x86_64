@@ -6,6 +6,7 @@ A collection of basic x86_64 assembly language programs for learning and explora
 
 This repository contains various assembly programs written in **x86_64** architecture. It is a learning resource to understand assembly language programming, instruction sets, and system-level programming concepts. The projects are designed to help you get hands-on experience with low-level programming and the inner workings of the computer.
 
+[Reference Video](https://youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn&feature=shared)
 
 ## Installation
 
