@@ -1,0 +1,6 @@
+bin_*
+*.o
+*.out
+*.exe
+.vscode/
+*.dSYM/
