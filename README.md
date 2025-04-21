@@ -84,3 +84,8 @@ Registers are a part of the processor that temporarily holds memory.
 # Pointers.
 
 ![](assets/pointers.png) 
+
+
+# Stack
+
+> Peeking is simply looking at the top without removing or adding anything to it.
