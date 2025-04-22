@@ -17,11 +17,19 @@ section .text
   call _printRAXDigit
 %endmacro
 
+;print sum macro
+%macro printSum 2
+  mov rax, %1
+  add rax, %2
+  call _printRAXDigit
+%endmacro
+
 
 _start:
   
   printDigit 3
   printDigit 4
+  printSum 4, 5
 
   exit
 
